@@ -734,6 +734,8 @@ do
 			{value = "focustarget", text = L["Focus Target"]},
 			{value = "pet", text = PET},
 			{value = "pettarget", text = L["Pet Target"]},
+			{value = "party1pet", text = L["Party1 Pet"]},
+			{value = "party2pet", text = L["Party2 Pet"]},
 			{disabled = true},
 			{text = PARTY, isTitle = true},
 			{text = PLAYER .. " " .. 1, value = "party1"},
